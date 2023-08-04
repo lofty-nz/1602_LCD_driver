@@ -1,4 +1,5 @@
 # 1602 LCD Driver for Raspberry Pi Pico
+![Alt text]([URL](https://github.com/lofty-nz/1602_LCD_driver/blob/main/pico%201602lcd.jpg))
 
 This repository contains code and instructions for using a 1602 LCD with a Raspberry Pi Pico using MicroPython.
 
